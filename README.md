@@ -36,6 +36,8 @@ Menu extra for macOS 14+. It lives on the **right** of the menu bar and does not
 
 Black on white is `21.00:1` (all Pass). `#777777` on white is about `4.48:1` (AA text Fail).
 
+WCAG “large” text is at least 18pt regular or 14pt bold. The AA large / AAA large rows use those lower ratios; they do not change the sampled colors.
+
 ## Requirements
 
 - macOS 14 Sonoma or later
